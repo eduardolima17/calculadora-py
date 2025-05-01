@@ -1,6 +1,7 @@
 # Calculadora em Python
-- Neste código, eu desenvolvi uma calculadora em Python usando funções. O script irá perguntar qual operação o usuário deseja realizar (adição, subtração, multiplicação ou divisão) e executa essa operação, o código é muito simples e fácil de entender.
 
-- A escolha do usuário é armazenada na variável de opções, que é inicialmente definida como 1, portanto, o primeiro teste do loop while é verdadeiro.
+Este projeto consiste em uma calculadora desenvolvida em Python utilizando funções para organizar e executar operações básicas: adição, subtração, multiplicação e divisão.
 
-- Depois disso, o usuário deve inserir a opção que deseja executar. Usei as estruturas de condições IF, ELIF e ELSE para identificar a alternativa de escrita. O que for true chamará a função corretamente. Se o usuário digitar 0, o programa termina e o script sai.
+O script apresenta um menu interativo no terminal, onde o usuário escolhe a operação desejada. A opção escolhida é armazenada em uma variável e avaliada dentro de um laço while, que mantém o programa em execução até que o usuário opte por sair (digitando 0).
+
+A lógica de controle é implementada com estruturas condicionais if, elif e else, que direcionam a execução para a função correspondente à operação escolhida. O código é simples, limpo e de fácil compreensão, ideal para iniciantes que desejam entender o uso de funções e controle de fluxo em Python.
